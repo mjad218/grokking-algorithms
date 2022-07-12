@@ -14,6 +14,7 @@ class BinarySearch:
 
         if (self.list[middle] <= element):
             return self.binarySearch(element, middle + 1, end)
+        return None
 
     def findIndex(self, element):
         end = len(self.list) - 1
