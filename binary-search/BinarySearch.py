@@ -9,6 +9,8 @@ class BinarySearch:
         middle = math.floor((start + end) / 2)
         if (self.list[middle] == element):
             return middle
+        if (end == start):
+            return None
         if (self.list[middle] >= element):
             return self.binarySearch(element, start, middle - 1)
 
