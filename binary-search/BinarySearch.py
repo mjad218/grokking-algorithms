@@ -16,7 +16,7 @@ class BinarySearch:
             return self.binarySearch(element, middle + 1, end)
 
     def findIndex(self, element):
-        end = len(self.list)
+        end = len(self.list) - 1
         return self.binarySearch(element, 0, end)
 
     def sort(self):
