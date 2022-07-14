@@ -1,5 +1,5 @@
 # Grokking Algorithms
-Challenge to read Grokking Algorithms in 20 Weeks ~ 11 Chapters 
+Challenge to read Grokking Algorithms in 20 Days ~ 11 Chapters 
 
 I will try reading a topic everyday and solve some problems that are relevent to this topic from leetcode.
 
