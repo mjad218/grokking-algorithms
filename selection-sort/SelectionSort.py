@@ -5,8 +5,8 @@ def swap(item1, item2):
 
 
 def seleSort(list):
-    for i, item in enumerate(list):
-        for j, item2 in enumerate(list):
+    for i in range(0, len(list)):
+        for j in range(i + 1, len(list)):
             if list[i] < list[j]:
                 temp = list[i]
                 list[i] = list[j]
