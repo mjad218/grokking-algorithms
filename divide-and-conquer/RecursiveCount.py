@@ -1,2 +1,4 @@
 def count(list):
-    return 5
+    if list == []:
+        return 0
+    return 1 + count(list[1:])
