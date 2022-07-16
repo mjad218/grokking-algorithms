@@ -33,4 +33,5 @@ It's about Divide and Conquer and Quick Sort
 |Calculate the max of an array | [Max](https://github.com/mjad218/grokking-algorithms/tree/master/divide-and-conquer)|  --|
 |Calculate the length of an array | [Count](https://github.com/mjad218/grokking-algorithms/tree/master/divide-and-conquer)|  --|
 |Calculate the sum of an array | [Sum](https://github.com/mjad218/grokking-algorithms/tree/master/divide-and-conquer)|  --|
+|Quick Sort | [Quick Sort](https://github.com/mjad218/grokking-algorithms/tree/master/quick-sort)|  --|
 
