@@ -24,7 +24,7 @@ It's about selection sort and the difference between a Linkedlist and arrays.
 It's about Recursion and the call stack
 | Topic | Implementation | Some Leetcode problems to solve | 
 | ---         |     ---     |         --- |
-|Calculate the factorial of a number | [factorial](https://github.com/mjad218/grokking-algorithms/tree/master/recursion)|  --|
+|Calculate the factorial of a number | [factorial](https://github.com/mjad218/grokking-algorithms/tree/master/recursion)|  [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|
 
 ## Chapter Four
 It's about Divide and Conquer and Quick Sort
