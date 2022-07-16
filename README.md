@@ -26,12 +26,12 @@ It's about Recursion and the call stack
 | ---         |     ---     |         --- |
 |Calculate the factorial of a number | [factorial](https://github.com/mjad218/grokking-algorithms/tree/master/recursion)|  --|
 
-## Chapter Three
+## Chapter Four
 It's about Divide and Conquer and Quick Sort
 | Topic | Implementation | Some Leetcode problems to solve | 
 | ---         |     ---     |         --- |
 |Calculate the max of an array | [Max](https://github.com/mjad218/grokking-algorithms/tree/master/divide-and-conquer)|  --|
 |Calculate the length of an array | [Count](https://github.com/mjad218/grokking-algorithms/tree/master/divide-and-conquer)|  --|
-|Calculate the sum of an array | [Sum](https://github.com/mjad218/grokking-algorithms/tree/master/divide-and-conquer)| A good question to solve that Divide and conquer will be usefull: [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|
+|Calculate the sum of an array | [Sum](https://github.com/mjad218/grokking-algorithms/tree/master/divide-and-conquer)| A good question to solve: [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|
 |Quick Sort | [Quick Sort](https://github.com/mjad218/grokking-algorithms/tree/master/quick-sort)|  --|
 
