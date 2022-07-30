@@ -13,7 +13,7 @@ Today is July 12 2022, Chapter one - Binary Search
 It's an introduction to algorithms, binary search, and the big O() notation.
 | Topic | Implementation | Some Leetcode problems to solve |
 | --- | --- | --- |
-|Binary Search | [Binary Search](https://github.com/mjad218/grokking-algorithms/blob/master/binary-search/BinarySearch.py)| --|
+|Binary Search | [Binary Search](https://github.com/mjad218/grokking-algorithms/blob/master/binary-search/BinarySearch.py)| [Find Peak Element](https://leetcode.com/problems/find-peak-element/)|
 
 ## Chapter Two
 
