@@ -3,13 +3,11 @@
 
 # dict in python
 # Cities in Egypt
-from operator import truediv
-
-
 graph = {"Cairo": ["Zagazig", "Suez", "Giza"],
          "Giza": ["Alexandria", "North Coast"],
          "Suez": ["Gouna", "Hurghada"],
-         "Zagazig": ["Mansoura"]
+         "Zagazig": ["Mansoura"],
+         "Fayoum": ["Qena"]
          }
 
 # I want to go from Cairo to North Coast
