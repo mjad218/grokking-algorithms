@@ -19,15 +19,35 @@ graph = {"Cairo": ["Zagazig", "Suez", "Giza"],
 # or the queue is empty
 
 
+# now after implementing the algorithm, what if i want the path itself?
+# well, for each node (or city), we can store the city that led to it.
 def bfs(graph, start, end):
+    visited = {}
     queue = []
     queue.append(start)
     while len(queue) != 0:
         currentCity = queue.pop(0)
         if currentCity == end:
-            return True
+            return visited
         if graph.get(currentCity) is not None:
             for city in graph[currentCity]:
-                queue.append(city)
+                # {city : prevCity }
+                # visitedCity = {city: currentCity}
+                visited[city] = currentCity
+                if visited.get(city) is not None:
+                    queue.append(city)
 
     return False
+
+
+# {"city" : "cairo", "prevCity": "Alex"}
+
+def displayPath(visited, start, end):
+    path = []
+    current = end
+    while current != start:
+        path.append(current)
+        current = visited.get(current)
+    path.append(current)
+    path.reverse()
+    return path
