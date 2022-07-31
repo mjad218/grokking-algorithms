@@ -53,8 +53,9 @@ It's about hash tables
 It's about Graphs and Breadth first search  
 | Topic | Implementation | Some Leetcode problems to solve | Useful Videos | 
 | --- | --- | --- |--- | 
-| Breadth first search | --- | --- | [BFS & DPS - Author of the cracking the coding interview](https://www.youtube.com/watch?v=zaBhtODEL0w)| 
+| Breadth first search | [BFS](https://github.com/mjad218/grokking-algorithms/tree/master/BFS) | --- | [BFS & DPS - Author of the cracking the coding interview](https://www.youtube.com/watch?v=zaBhtODEL0w)| 
 | Breadth first search | --- | --- | [BFS & DPS - Fireship](https://www.youtube.com/watch?v=cWNEl4HE2OE)| 
+| Depth first search | --- | --- | [ DPS ](https://www.youtube.com/watch?v=7fujbpJ0LB4)| 
 
 
 ## Chapter 7
