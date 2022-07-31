@@ -13,7 +13,7 @@ Today is July 12 2022, Chapter one - Binary Search
 It's an introduction to algorithms, binary search, and the big O() notation.
 | Topic | Implementation | Some Leetcode problems to solve |
 | --- | --- | --- |
-|Binary Search | [Binary Search](https://github.com/mjad218/grokking-algorithms/blob/master/binary-search/BinarySearch.py)| --|
+|Binary Search | [Binary Search](https://github.com/mjad218/grokking-algorithms/blob/master/binary-search/BinarySearch.py)| 1. [Find Peak Element](https://leetcode.com/problems/find-peak-element/) <br/> 2. [Search for a Range](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 
 ## Chapter Two
 
@@ -38,3 +38,27 @@ It's about Divide and Conquer and Quick Sort
 |Calculate the length of an array | [Count](https://github.com/mjad218/grokking-algorithms/tree/master/divide-and-conquer)| --|
 |Calculate the sum of an array | [Sum](https://github.com/mjad218/grokking-algorithms/tree/master/divide-and-conquer)| A good question to solve: [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|
 |Quick Sort | [Quick Sort](https://github.com/mjad218/grokking-algorithms/tree/master/quick-sort)| --|
+
+
+## Chapter Five
+
+It's about hash tables
+| Topic | Implementation | Some Leetcode problems to solve | Useful Videos | 
+| --- | --- | --- |--- | 
+| Hash Tables | --- | --- | [Hash Tables - Author of the cracking the coding interview](https://www.youtube.com/watch?v=shs0KM3wKv8)| 
+| Hash Tables | --- | --- | [Hash Tables - CS Dojo](https://www.youtube.com/watch?v=sfWyugl4JWA)| 
+
+## Chapter Six
+
+It's about Graphs and Breadth first search  
+| Topic | Implementation | Some Leetcode problems to solve | Useful Videos | 
+| --- | --- | --- |--- | 
+| Breadth first search | --- | --- | [BFS & DPS - Author of the cracking the coding interview](https://www.youtube.com/watch?v=zaBhtODEL0w)| 
+| Breadth first search | --- | --- | [BFS & DPS - Fireship](https://www.youtube.com/watch?v=cWNEl4HE2OE)| 
+
+
+## Chapter 7
+
+It's about Dijkstra's algorithm 
+| Topic | Implementation | Some Leetcode problems to solve |
+| --- | --- | --- |
