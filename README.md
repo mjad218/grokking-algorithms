@@ -63,3 +63,17 @@ It's about Graphs and Breadth first search
 It's about Dijkstra's algorithm 
 | Topic | Implementation | Some Leetcode problems to solve |
 | --- | --- | --- |
+
+## Chapter 8
+
+It's about Greedy Algorithms
+| Topic | Implementation | Some Leetcode problems to solve |
+| --- | --- | --- |
+
+## Chapter 9
+
+It's about Dynamic Programming ~ A ** Great ** Chapter 
+| Topic | Implementation | Some Leetcode problems to solve | Useful Videos |
+| --- | --- | --- | --- | 
+| Dynamic Programming | --- | --- | [Dynamic Programming - CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRU5PrgZ9NBHJwcaZsNpf8yD)| 
+| Dynamic Programming | --- | --- | [Dynamic Programming - Author of the cracking the coding interview](https://www.youtube.com/watch?v=P8Xa2BitN3I)| 
