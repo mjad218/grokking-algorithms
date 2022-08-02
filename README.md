@@ -72,7 +72,7 @@ It's about Greedy Algorithms
 
 ## Chapter 9
 
-It's about Dynamic Programming ~ A ** Great ** Chapter 
+It's about Dynamic Programming ~ A **Great** Chapter 
 | Topic | Implementation | Some Leetcode problems to solve | Useful Videos |
 | --- | --- | --- | --- | 
 | Dynamic Programming | --- | --- | [Dynamic Programming - CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRU5PrgZ9NBHJwcaZsNpf8yD)| 
